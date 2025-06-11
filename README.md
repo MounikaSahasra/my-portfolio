@@ -1,4 +1,4 @@
-# Vishang Lad's Portfolio Website
+# Mounika's Portfolio Website
 
 A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript.
 
