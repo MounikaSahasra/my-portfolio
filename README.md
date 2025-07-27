@@ -86,7 +86,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Vishang Lad
-- Email: vishang1807@gmail.com
-- LinkedIn: [linkedin.com/in/vishang-lad-946718266](https://linkedin.com/in/vishang-lad-946718266)
-- GitHub: [github.com/vishangl](https://github.com/vishangl) 
+Mounika B
+memounikababurajan@gmail.com
